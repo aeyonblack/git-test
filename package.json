@@ -1,0 +1,16 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "\"A simple test directory for git and node\"",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Tanya Masvita",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
